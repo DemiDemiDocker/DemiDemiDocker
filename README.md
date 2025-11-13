@@ -81,10 +81,6 @@
 
 ###
 
-<img align="right" height="400" src="https://i.pinimg.com/736x/3e/4b/49/3e4b495c2df600c7c8841669ed96c7ad.jpg"  />
-
-###
-
 <br clear="both">
 
 <div>
